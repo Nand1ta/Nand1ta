@@ -8,10 +8,10 @@ MSc Student in Medical Biophysics at the University of Toronto
 - AI for Healthcare
 - Computational Neuroscience
 
-## Current Projects
-- Medical imaging analysis
-- Clinical AI applications
-- Computational neuroscience research
+## Currently exploring
+- Exploring machine learning applications in medicine
+- Building reproducible research workflows
+- Developing computational analysis skills for biomedical data
 
 ## Education
 - MSc Medical Biophysics, University of Toronto
