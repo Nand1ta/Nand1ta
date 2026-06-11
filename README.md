@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Nandita Jayadevan
 
-<!--
-**Nand1ta/Nand1ta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Student in Medical Biophysics at the University of Toronto
 
-Here are some ideas to get you started:
+## Research Interests
+- Neuroimaging
+- Machine Learning
+- AI for Healthcare
+- Computational Neuroscience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Medical imaging analysis
+- Clinical AI applications
+- Computational neuroscience research
+
+## Education
+- MSc Medical Biophysics, University of Toronto
+- BSc Neuroscience & Statistics, University of Toronto
+
+## Connect
+- LinkedIn
+- Email
